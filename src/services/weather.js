@@ -22,7 +22,7 @@
         conditionText: text,
         country,
         localtime,
-        name,
+        locationName: name,
         humidity,
         isDay: is_day,
         feelsLike: feelslike_c,
